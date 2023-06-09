@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "main.h"
 
 /**
  *main - a function that print progrm name
